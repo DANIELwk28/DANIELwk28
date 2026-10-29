@@ -9,7 +9,6 @@ Hi, I'm John Daniel a BSIT Student! 👋
 🛠️ Technologies I'm Learning
 
 - Python
-- Git and GitHub
 - HTML and CSS (to explore next)
 
 📂 My Projects
