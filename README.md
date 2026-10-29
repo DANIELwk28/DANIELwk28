@@ -1,18 +1,22 @@
-Hi, I'm John Daniel! 👋
+Hi, I'm John Daniel a BSIT Student! 👋
 
-I'm a first-year BSIT student.
+🎓 First-Year Bachelor of Science in Information Technology Student
 
-💻 I'm learning Python programming.
-🤖 I'm interested in AI and automation.
+💻 Currently learning Python and programming fundamentals.
 
- My Skills
-- Python (beginner)
-- Problem-solving
-- Basic programming
+🌱 Improving my skills in problem-solving, logical thinking, and software development.
 
- My Goals
-- Learn more about coding.
-- Create my own projects.
-- Become a skilled IT professional.
+🛠️ Technologies I'm Learning
 
-Thanks for visiting my profile! 🚀
+- Python
+- Git and GitHub
+- HTML and CSS (to explore next)
+
+📂 My Projects
+
+- SmartSave — Savings Goal Tracker
+
+🎯 My Goal
+To become a skilled IT professional by continuously learning, building projects, and improving my programming skills.
+
+📫 Thanks for visiting my GitHub profile!
